@@ -5,5 +5,13 @@ Hello World
 
 I'm just someone! 
 
-Bye bye!
+Bye!
 
+=======
+Bye!
+
+Hi, I'm a alien :)
+
+I'm Harry Potter!
+
+# Hallo 2.0
